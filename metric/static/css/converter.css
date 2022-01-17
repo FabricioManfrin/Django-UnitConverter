@@ -1,0 +1,45 @@
+body {
+  font-family: 'Mulish', sans-serif;
+}
+
+.unit-title {
+  margin: 50px 370px 50px 370px;
+}
+
+/* Form container */
+.row {
+  justify-content: center;
+}
+
+.user-input {
+  box-shadow: 2px 2px 5px rgb(145, 139, 139);
+}
+
+.form-select {
+  margin: 10px 0 10px;
+  box-shadow: 2px 2px 5px rgb(145, 139, 139);
+}
+
+.btn {
+  width: 306px;
+}
+
+.form-result {
+  box-shadow: 2px 2px 5px rgb(145, 139, 139);
+}
+
+/* Formula Container */
+.formula-container {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+}
+
+.formula {
+  font-size: 1em;
+  font-weight: 500;
+}
+
+
+
+
